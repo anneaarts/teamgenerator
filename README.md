@@ -1,28 +1,28 @@
-# [Start Bootstrap - Business Frontpage](https://startbootstrap.com/template-overviews/business-frontpage/)
+# [Start Bootstrap - Half Slider](https://startbootstrap.com/template-overviews/half-slider/)
 
-[Business Frontpage](http://startbootstrap.com/template-overviews/business-frontpage/) is a basic business website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Half Slider](http://startbootstrap.com/template-overviews/half-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full width, half page image slider header with captions.
 
 ## Preview
 
-[![Business Frontpage Preview](https://startbootstrap.com/assets/img/templates/business-frontpage.jpg)](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)
+[![Half Slider Preview](https://startbootstrap.com/assets/img/templates/half-slider.jpg)](https://blackrockdigital.github.io/startbootstrap-half-slider/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-half-slider/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-business-frontpage/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-business-frontpage.svg)](https://www.npmjs.com/package/startbootstrap-business-frontpage)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-business-frontpage.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-business-frontpage)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-half-slider/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-half-slider.svg)](https://www.npmjs.com/package/startbootstrap-half-slider)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-half-slider.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-half-slider)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-half-slider/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-half-slider)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-half-slider/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-half-slider?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/business-frontpage/)
-* Install via npm: `npm i startbootstrap-business-frontpage`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-business-frontpage)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/half-slider/)
+* Install via npm: `npm i startbootstrap-half-slider`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-half-slider.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-half-slider)
 
 ## Usage
 
@@ -36,7 +36,7 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-frontpage/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-half-slider/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/half-slider/).
 
 ## Custom Builds
 
@@ -59,4 +59,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-half-slider/blob/gh-pages/LICENSE) license.

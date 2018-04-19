@@ -1,8 +1,8 @@
 {
-    "title": "Business Frontpage",
-    "name": "startbootstrap-business-frontpage",
+    "title": "Half Slider",
+    "name": "startbootstrap-half-slider",
     "version": "4.0.0",
-    "description": "A simple business HTML landing page built with Bootstrap",
+    "description": "A half page image slider HTML template built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/business-frontpage",
+    "homepage": "https://startbootstrap.com/template-overviews/half-slider",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-business-frontpage/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-half-slider/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,7 +23,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-half-slider.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
